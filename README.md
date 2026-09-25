@@ -1,1 +1,1 @@
-# structured_programmiing_practice
+# structured_programming_practice
