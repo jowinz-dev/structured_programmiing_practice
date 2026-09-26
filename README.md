@@ -1,5 +1,5 @@
 # Structured Programming Practice Assignment
-* ## Category 1 - Basic Output
+ ## Category 1 - Basic Output
 * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*, Chapter 2, Section 2.2
 * **Objective:** To master the fundamental use of the standard input/output library and display structured text on the console.
 * **Concepts Used:**
@@ -21,4 +21,7 @@ Use code with caution.
  * **Concepts Used:** if statement,executes a block of code only if a specified condition evaluates to true.if...else statement,chooses between two different code execution paths based on a condition.Relational Operators: Symbols (>, <, ==, !=) used to compare values or variables.Logical Operators: Symbols (&& for AND, || for OR) used to combine multiple conditions.
  * **How it works:** The program evaluates an expression inside a decision structure. If the condition is true, the program branches off to run one specific set of code instructions; if it is false, it skips that code or jumps straight to an alternative path.
 
- * ## Category 4 - Basic loops.
+  ## Category 4 - Basic loops.
+  * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,
+  * **Objective:**
+
