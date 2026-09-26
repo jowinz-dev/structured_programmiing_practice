@@ -4,9 +4,9 @@
 int main()
 {   int num1,num2;//defining the variables that will be used where num1 means first number and num2 means second number.
 
-    int sum,diff;//Here diff means difference and sum means total of the two numbers entered by the user.
+    int sum,remainder,diff;//Here diff means difference and sum means total of the two numbers entered by the user.
 
-    float quotie,remainder;//quotie means quotient and then remainder.
+    float quotie;//quotie means quotient and then remainder.
 
 
         printf("Enter the first number: ");//Here we are prompting the user to do something
@@ -25,7 +25,7 @@ int main()
 
         printf("\nThe Quotient    : %.2f\n",quotie);
         printf("\nThe Sum         : %d\n",sum);
-        printf("\nThe Remainder   : %.2f\n",remainder);
+        printf("\nThe Remainder   : %d\n",remainder);
         printf("\nThe Difference  : %d\n",diff);
 
     return 0;
