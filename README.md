@@ -27,7 +27,7 @@ Use code with caution.
   * **Objective:** To calculate all the multiples of 7 between 1 and 100 in c.
   * **How it works:**  The Loop,Iterates through numbers from 7 to 100, incrementing by 7 each step (num += 7) to isolate only valid multiples. Accumulation: Adds each valid multiple directly to a running sum variable during execution. Result Output then Prints the final aggregated total directly to the console. 
  
- ## Category 5 - LOOPS WITH CALCULATION.
+ ## Category 5 - Loops_with_calcculations.
 * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 4,exercise 4.14.
  * **Objective:** To display the factorials of integers from 1 to 5  using the nested loop structure.
  * **How it works:** Outer Loop, Iterates through the numbers 1 to 5, tracking the current integer (i) whose factorial needs to be calculated. Inner Loop, Resets the factorial accumulator to 1 for each new number, then multiplies all integers from 1 up to i to compute the factorial value, Output Display: Prints the results in a clean, tab-separated table structure using formatted console output (printf).
