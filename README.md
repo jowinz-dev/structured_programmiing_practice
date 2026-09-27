@@ -15,10 +15,20 @@ Use code with caution.
 * **Objective:** To master capturing user keyboard inputs, performing fundamental arithmetic operations, and displaying the processed results on the console.
  * **Concepts Used:** Concepts Used in the CodeData Types: The code uses int for whole numbers and float for fractional decimal numbers.Standard Input/Output: It uses printf() to output text to the screen and scanf() to capture user keyboard input.Format Specifiers: It utilizes %d to handle integer values and %.2f to format decimals to two decimal places.Arithmetic Operators: It implements addition (+), subtraction (-), integer division (/), and the modulus/remainder operator (%).Sequence Control Structure: The program executes line-by-line in a strict top-to-bottom order without loops or branches.Inline Comments: It uses // to document and explain the purpose of individual lines of code
 * **How it works:** The program runs through a clear four-step pipeline:[1. Declare Variables] ──> [2. Read User Input] ──> [3. Process Math] ──> [4. Print Results]
+  
  * ## Category 3 - Decisions
  * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 2,exercise 2.29.
- * **Objective:**To master using conditional statements to control code execution flow based on true or false conditions.
+ * **Objective:** To master using conditional statements to control code execution flow based on true or false conditions.
  * **Concepts Used:** if statement,executes a block of code only if a specified condition evaluates to true.if...else statement,chooses between two different code execution paths based on a condition.Relational Operators: Symbols (>, <, ==, !=) used to compare values or variables.Logical Operators: Symbols (&& for AND, || for OR) used to combine multiple conditions.
  * **How it works:** The program evaluates an expression inside a decision structure. If the condition is true, the program branches off to run one specific set of code instructions; if it is false, it skips that code or jumps straight to an alternative path.
 
+ ## Category 4 - LOOPS WITH CALCULATION.
+* **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 4,exercise 4.14.
+ * **Objective:** To display the factorials of integers from 1 to 5  using the nested loop structure.
+ * **How it works:** Outer Loop, Iterates through the numbers 1 to 5, tracking the current integer (i) whose factorial needs to be calculated. Inner Loop, Resets the factorial accumulator to 1 for each new number, then multiplies all integers from 1 up to i to compute the factorial value, Output Display: Prints the results in a clean, tab-separated table structure using formatted console output (printf).
 
+   
+ ## Category 5 - Decisions
+ * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 3,exercise 3.18.
+* **Objective:** To perform basic arithmetic operations on the integers input by the user find the sum, difference, quotient and the remainder in C
+* **How it works:** User Input, Prompts the user to enter two integers (num1 and num2) via the console using scanf. Arithmetic Processing, Computes four distinct mathematical operations,[Sum] Adds the two numbers together,[Difference] Subtracts the second number from the first,[Quotient] Divides the first number by the second (stored as a float),[Remainder] Calculates the modulus (remainder) of the division, there after our Output Display, Formats and prints each calculated result to the console with descriptive labels.
