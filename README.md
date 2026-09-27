@@ -42,3 +42,8 @@ Use code with caution.
  * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 3,exercise 3.22.
 * **Objective:** To track and summarize exams either a student passed or failed  for a class of 10 students.
  * **How it works:** Data Collection: Loops 10 times to collect individual student results (1 for pass, 2 for fail) using scanf.Conditional Evaluation: Increments either the passes or failures counter using an if-else statement based on the input code.Summary Output: Displays the final total counts of passing and failing students after the loop finishes.
+
+    ## Category 7 - Loops_with_decisions
+ * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 3,exercise 3.22.
+* **Objective:** To track and summarize exams either a student passed or failed  for a class of 10 students.
+ * **How it works:** 
