@@ -25,7 +25,7 @@ Use code with caution.
  ## Category 4 - LOOPS WITH CALCULATION.
 * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 4,exercise 4.14.
  * **Objective:** To display the factorials of integers from 1 to 5  using the nested loop structure.
-
+ * **How it works:** Outer Loop, Iterates through the numbers 1 to 5, tracking the current integer (i) whose factorial needs to be calculated. Inner Loop, Resets the factorial accumulator to 1 for each new number, then multiplies all integers from 1 up to i to compute the factorial value, Output Display: Prints the results in a clean, tab-separated table structure using formatted console output (printf).
 
    
  ## Category 5 - Decisions
