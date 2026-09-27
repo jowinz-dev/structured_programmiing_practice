@@ -28,10 +28,10 @@ Use code with caution.
  * **How it works:** Outer Loop, Iterates through the numbers 1 to 5, tracking the current integer (i) whose factorial needs to be calculated. Inner Loop, Resets the factorial accumulator to 1 for each new number, then multiplies all integers from 1 up to i to compute the factorial value, Output Display: Prints the results in a clean, tab-separated table structure using formatted console output (printf).
 
    
- ## Category 5 - Decisions
+ ## Category 6 - Loops _with_user_input.
  * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 3,exercise 3.18.
 * **Objective:** To perform basic arithmetic operations on the integers input by the user find the sum, difference, quotient and the remainder in C
 * **How it works:** User Input, Prompts the user to enter two integers (num1 and num2) via the console using scanf. Arithmetic Processing, Computes four distinct mathematical operations,[Sum] Adds the two numbers together,[Difference] Subtracts the second number from the first,[Quotient] Divides the first number by the second (stored as a float),[Remainder] Calculates the modulus (remainder) of the division, there after our Output Display, Formats and prints each calculated result to the console with descriptive labels.
 
-   ## Category 5 - Decisions
- * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 3,exercise 3.18.
+   ## Category 7 - Loops_with_decisions
+ * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 3,exercise 3.22.
