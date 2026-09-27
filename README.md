@@ -21,7 +21,12 @@ Use code with caution.
  * **Objective:** To master using conditional statements to control code execution flow based on true or false conditions.
  * **Concepts Used:** if statement,executes a block of code only if a specified condition evaluates to true.if...else statement,chooses between two different code execution paths based on a condition.Relational Operators: Symbols (>, <, ==, !=) used to compare values or variables.Logical Operators: Symbols (&& for AND, || for OR) used to combine multiple conditions.
  * **How it works:** The program evaluates an expression inside a decision structure. If the condition is true, the program branches off to run one specific set of code instructions; if it is false, it skips that code or jumps straight to an alternative path.
-
+ 
+ * ## Category 4 - Basic_loops.
+ * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 4,exercise 4.11.
+  * **Objective:** To calculate all the multiples of 7 between 1 and 100 in c.
+  * **How it works:**  The Loop,Iterates through numbers from 7 to 100, incrementing by 7 each step (num += 7) to isolate only valid multiples. Accumulation: Adds each valid multiple directly to a running sum variable during execution. Result Output then Prints the final aggregated total directly to the console. 
+ 
  ## Category 5 - LOOPS WITH CALCULATION.
 * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 4,exercise 4.14.
  * **Objective:** To display the factorials of integers from 1 to 5  using the nested loop structure.
