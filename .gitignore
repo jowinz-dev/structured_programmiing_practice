@@ -3,3 +3,4 @@ execise.c.1/01_basic_output/main.c
 *.o
 *.cbp
 *.layout
+*.depend
