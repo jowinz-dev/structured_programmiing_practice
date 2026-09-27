@@ -20,5 +20,6 @@ Use code with caution.
  * **Objective:**To master using conditional statements to control code execution flow based on true or false conditions.
  * **Concepts Used:** if statement,executes a block of code only if a specified condition evaluates to true.if...else statement,chooses between two different code execution paths based on a condition.Relational Operators: Symbols (>, <, ==, !=) used to compare values or variables.Logical Operators: Symbols (&& for AND, || for OR) used to combine multiple conditions.
  * **How it works:** The program evaluates an expression inside a decision structure. If the condition is true, the program branches off to run one specific set of code instructions; if it is false, it skips that code or jumps straight to an alternative path.
-
-
+ * ## Category 5 - Decisions
+ * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 2,exercise 2.29.
+* **Objective:** To perform basic arithmetic operations on the integers input by the user find the sum, difference, quotient and the remainder in C
