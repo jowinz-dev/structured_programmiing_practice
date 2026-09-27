@@ -47,3 +47,12 @@ Use code with caution.
  * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 3,exercise 3.16.
 * **Objective:** 
  * **How it works:** 
+
+
+
+
+
+
+
+ 
+[working link]:https://github.com/jowinz-dev/structured_programmiing_practice
