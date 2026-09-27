@@ -45,7 +45,7 @@ Use code with caution.
 
     ## Category 8- Iteration
  * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 3,exercise 3.16.
-* **Objective:** 
+* **Objective:** To separate the pure sales revenue from the sales tax collected out of a store's total monthly intake, calculating and displaying individual figures for both state and county sales taxes.
  * **How it works:** 
 
 
