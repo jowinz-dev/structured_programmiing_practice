@@ -1,6 +1,6 @@
 # Structured Programming Practice Assignment
  ## Category 1 - Basic Output
-* **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*, Chapter 2, Section 2.2
+* **Textbook Reference:** Deitel & Deitel,*C How to Program (9th Edition)*, Chapter 2, Section 2.2
 * **Objective:** To master the fundamental use of the standard input/output library and display structured text on the console.
 * **Concepts Used:**
   * "#include <stdio.h>" : The standard header file needed for input/output operations.
