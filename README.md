@@ -43,7 +43,7 @@ Use code with caution.
 * **Objective:** To track and summarize exams either a student passed or failed  for a class of 10 students.
  * **How it works:** Data Collection: Loops 10 times to collect individual student results (1 for pass, 2 for fail) using scanf.Conditional Evaluation: Increments either the passes or failures counter using an if-else statement based on the input code.Summary Output: Displays the final total counts of passing and failing students after the loop finishes.
 
-    ## Category 8- Iteration
+    ## Category 8 - Iteration
  * **Textbook Reference:** Deitel & Deitel, *C How to Program (9th Edition)*,Chapter 3,exercise 3.16.
 * **Objective:** To separate the pure sales revenue from the sales tax collected out of a store's total monthly intake, calculating and displaying individual figures for both state and county sales taxes.
  * **How it works:** Sentinel-Controlled Loop program, sets up a while loop controlled by total_collect. It repeatedly processes the monthly calculations until the user enters -1 to terminate the program. Since the total collected amount includes both a 4% state tax and a 5% county tax which is now (9% total tax), it extracts the original sales amount using: Sales=Total Collections/(1.00+0.04+0.05). Now Once the pure product sales value has been found, it now calculates the county tax of (5%) and state tax of (4%) individually by multiplying them by their respective rates. There after It formats and prints the results using printf rounded to two decimal places (%.2f) to represent dollar amounts cleanly without missing out any value.
